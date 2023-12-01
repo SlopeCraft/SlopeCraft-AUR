@@ -1,0 +1,6 @@
+SlopeCraft-*.tar.zst
+pkg/*
+src/*
+SlopeCraft/*
+.idea/*
+.vscode/*
